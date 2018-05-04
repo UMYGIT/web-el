@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="elmanger-web:war">
+    <output-path>$PROJECT_DIR$/elmangerweb/target</output-path>
+    <root id="archive" name="elmanger-web.war">
+      <element id="artifact" artifact-name="elmanger-web:war exploded" />
+    </root>
+  </artifact>
+</component>
